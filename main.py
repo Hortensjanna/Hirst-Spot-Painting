@@ -23,6 +23,7 @@ t = Turtle()
 
 
 def hirst_spot_painting():
+    t.hideturtle()
     t.speed('fastest')
     t.penup()
     t.setheading(225)
